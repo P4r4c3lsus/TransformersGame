@@ -80,3 +80,5 @@ Hay dos maneras de terminar el juego, la primera manera es cuando el jugador log
 10. Una vez que obtengas los puntos máximos de estadística en el juego ya no se podrá añadir más puntos, sólo se pueden guardar puntos de escudo cuando tengas la respectiva carta de armamento.
 
 11. Si un jugador esta ocupando una casilla no puede ocupar su casilla.
+
+[Activida_Figma](https://www.figma.com/design/yOWwqraf1zJyfFCLIKe4WI/Untitled?m=auto&t=8HbpQ4HX75hvKx2m-1)
